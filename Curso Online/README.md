@@ -32,6 +32,25 @@ Para ver o conteúdo desenvolvido, [clique aqui](/Curso%20Online/Módulo%201/Git
 ### HTML
 > 3 Horas by Ada Tech
 
+Este curso oferece uma visão geral sobre HTML (HyperText Markup Language), abordando desde a estrutura básica de um documento até as principais tags e elementos semânticos utilizados para criar e organizar conteúdo em páginas web. Inclui exemplos práticos de cabeçalhos, parágrafos, listas, links, imagens, formatação de texto, tabelas e formulários, além de mostrar como integrar CSS para estilizar o HTML. Além disso, destaca a importância das ferramentas de desenvolvimento (Dev Tools) para inspecionar e depurar o código, fornecendo uma base sólida para a criação de páginas web eficazes e bem estruturadas.
+
+#### Conteúdo
+
+- **O que é HTML?**
+- **Dev Tools**
+- **Estrutura básica**
+- **Principais Tags**
+- **Elementos semânticos**
+- **Barra de navegação**
+- **Tabelas**
+- **Formulários**
+- **Integração com CSS**
+
+Para ver o conteúdo desenvolvido, [clique aqui](/Curso%20Online/Módulo%202/HTML.md).
+
+#### Material extra
+
+- [Página exemplo](/Curso%20Online/Módulo%202/pagina_exemplo.html)
 
 ### CSS
 
