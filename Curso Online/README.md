@@ -53,9 +53,41 @@ Para ver o conteúdo desenvolvido, [clique aqui](/Curso%20Online/Módulo%202/HTM
 - [Página exemplo](/Curso%20Online/Módulo%202/pagina_exemplo.html)
 
 ### CSS
+> 6 Horas by Ada Tech
+
+Este curso de CSS oferece uma visão abrangente sobre a estilização de páginas web. Você aprenderá desde os fundamentos, como aplicar estilos de forma inline, em uma tag ```<style>``` ou através de arquivos externos, até conceitos avançados como *Flexbox* e *Grid Layout*. O curso explora seletores, cores, fontes, medidas, listas, tabelas e o modelo de caixa (*Box Model*). Também inclui tópicos essenciais para criação de layouts responsivos e animações, garantindo que suas páginas sejam esteticamente agradáveis e funcionais em qualquer dispositivo. Ideal para quem deseja dominar a arte do design web.
+
+#### Conteúdo
+- **O que é CSS**
+- **Cores, background e textos**
+- **Fontes, medidas e links**
+- **Listas, tabelas, box model e display**
+- **Position e introdução à Flexbox**
+- **Flexbox e alinhamentos**
+- **Seletores, responsividade e animações**
+- **Grid Layout e Unidade "fr"**
+
+Para ver o conteúdo desenvolvido, [clique aqui](/Curso%20Online/Módulo%203/CSS.md).
 
 ### Lógica de programação básica com Javascript
+> 2 Horas by Ada Tech
+
+Este curso básico de JavaScript é projetado para iniciantes que desejam aprender os fundamentos da programação com uma das linguagens mais populares do mundo. Você aprenderá sobre a sintaxe básica do JavaScript, conceitos essenciais de programação, e como aplicar esses conceitos para criar scripts dinâmicos e interativos para a web.
+
+#### Conteúdo
+- **Gerenciamento de Memória Dinâmica**
+- **Condicionais**
 
 ### React - Básico
+> 5 Horas by Ada Tech
+
+Este curso básico de ReactJS é projetado para iniciantes que desejam aprender os fundamentos de uma das bibliotecas JavaScript mais populares para a construção de interfaces de usuário. Você aprenderá sobre a criação de componentes reutilizáveis, gerenciamento de estado, ciclo de vida dos componentes, e como aplicar esses conceitos para construir aplicações web dinâmicas e interativas.
+
+#### Conteúdo
+- **Introdução ao ReactJS**
+- **Componentização**
+- **Props e Estados**
+- **Ciclo de Vida dos Componentes**
 
 ### Introdução ao Angular
+> 2 Horas by Ada Tech
